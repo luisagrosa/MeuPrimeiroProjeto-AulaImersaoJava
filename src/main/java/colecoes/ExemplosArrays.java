@@ -1,3 +1,5 @@
+package colecoes;
+
 public class ExemplosArrays {
 
     public static void main(String[] args){

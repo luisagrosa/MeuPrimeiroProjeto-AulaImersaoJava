@@ -10,6 +10,7 @@ public class Exercicio1Wrapper {
 
         String letraE = converteEmMinuscula('E').toString();
         System.out.println(letraE);
+
     }
 
     public static Character converteEmMinuscula(Character letra){
@@ -19,4 +20,6 @@ public class Exercicio1Wrapper {
         Character emLetraMinuscula = Character.toLowerCase(letra);
         return emLetraMinuscula;
     }
+
+
 }
